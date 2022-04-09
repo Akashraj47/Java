@@ -6,7 +6,7 @@ class xyz {
 		this.z = z;
 	}
 	void show(){
-		System.out.println("x = "+x+"Y="+y+"Z"+z);
+		System.out.println("x = "+x+", Y = "+y+", Z = "+z);
 	}
 }
 class abc extends xyz{
