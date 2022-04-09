@@ -19,7 +19,7 @@ class abc extends xyz{
 	}
 	void show(){
 		super.show();
-		System.out.println("a = "+a+"b ="+b);
+		System.out.println("a = "+a+", b ="+b);
 	}
 }
 class User{
